@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/IamSoma/FriendFinder/issues"
   },
-  "homepage": "https://github.com/IamSoma/FriendFinder#readme"
+  "homepage": "https://github.com/IamSoma/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
