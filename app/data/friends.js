@@ -1,0 +1,43 @@
+var friends = [
+	{
+		name:"Nick",
+		photo:"path",
+		scores:[
+		"4",
+		"4",
+		"3",
+		"1",
+		"5",
+		"4",
+		"2"
+		]
+	},
+	{
+		name:"John",
+		photo:"path",
+		scores:[
+		"1",
+		"4",
+		"2",
+		"1",
+		"5",
+		"4",
+		"5"
+		]
+	},
+	{
+		name:"Ray",
+		photo:"path",
+		scores:[
+		"1",
+		"1",
+		"1",
+		"2",
+		"2",
+		"1",
+		"2"
+		]
+	}		
+];
+
+module.exports=friends;
